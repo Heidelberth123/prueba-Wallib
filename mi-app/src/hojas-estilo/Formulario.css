@@ -1,0 +1,25 @@
+.contenedor-formulario{
+    margin: 10%;
+    min-height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: last baseline;
+    background-color: #cfa3a3;
+    
+}
+.imagen-formulario{
+    height: 100%;
+    width: center;
+    float: left;
+    margin-right: 70px;
+    
+}
+.label{
+    display: block;
+    align-items: center;
+
+}
+.input{
+    width: 100%;
+    align-items: center;
+}
